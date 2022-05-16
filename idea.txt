@@ -1,0 +1,22 @@
+1- radio button for : 
+    - linkedin + linkedin
+    - licence + file
+    - work in progress : create a template
+    - active 'back to top' ?
+
+2- file(s) input(s) : 
+    - XML or JSON, with tags :
+                            - text
+                            - img
+                            - bash
+                            - py
+                            - C- ...
+    - ????
+
+3- 
+
+
+====
+
+Liens : 
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
